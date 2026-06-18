@@ -1,9 +1,12 @@
 # AI Care Gap Detection System
 Author -Shivani Jaswal
 
-# AI Care Gap Detection Project
+## About the Project
+Healthcare systems often miss important patient follow-ups, checkups, or medication adherence issues.
 
-This project detects care gaps in patient data using simple AI logic.
+This project analyzes patient data and flags possible care gaps that may require medical attention.
+
+It is a beginner-friendly AI prototype built using Python.
 
 ## Features
 - Detects risk based on age
@@ -11,4 +14,9 @@ This project detects care gaps in patient data using simple AI logic.
 - Considers chronic disease
 - Medication adherence analysis
 
-## Run
+##  How to Run
+bash
+python main.py
+
+
+
